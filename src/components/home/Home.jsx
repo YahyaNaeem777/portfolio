@@ -24,7 +24,7 @@ const Home = () => {
           </p>
         </div>
         <div className="col-md-6 home-right" data-aos="fade-right">
-          <img className="img-fluid" src="Images/profile.png" alt="" />
+          <img className="img-fluid" src="Images/pf.png" alt="" />
         </div>
       </div>
       <div className="bottom" data-aos="flip-down">
