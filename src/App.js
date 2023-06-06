@@ -3,7 +3,7 @@ import Navbar from "./navbar/Navbar";
 import Home from "./components/home/Home";
 import About from "./components/about/About";
 import Services from "./components/services/Services";
-// import Portfolio from "./components/portfolio/Portfolio";
+import Portfolio from "./components/portfolio/Portfolio";
 // import Contact from "./components/contact/Contact";
 import Contact from "./components/contact/Contact";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";

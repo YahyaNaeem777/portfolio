@@ -1,68 +1,63 @@
 export const servicesApi=[
     {
         id:1,
-        name:"web development",
-        logo:"fa-brands fa-connectdevelop"
+        name:"Youtube-Clone",
+        description:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae error voluptatem atque at, rerum quis obcaecati in autem architecto fugit!",
+        technology:{
+            language:"Reactjs",
+            style:"SCSS",
+            backend:"Firebase"
+        }
     },
     {
         id:2,
-        name:"Bootstrap",
-        logo:"fa-brands fa-bootstrap"
+        name:"Committee System",
+        description:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae error voluptatem atque at, rerum quis obcaecati in autem architecto fugit!",
+          technology:{
+            language:"Reactjs",
+            style:"SCSS",
+            backend:"Firebase"
+        }
     }, {
         id:3,
-        name:"ReactJs",  
-        logo:"fa-brands fa-react"    
+        name:"Ecommerce",  
+        description:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae error voluptatem atque at, rerum quis obcaecati in autem architecto fugit!"    ,
+        technology:{
+            language:"Reactjs",
+            style:"SCSS",
+            backend:"Firebase"
+        }
     }, 
     {
         id:4,
-        name:"Nodejs",
-        logo:"fa-brands fa-node"
+        name:"UI/UX",
+        description:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae error voluptatem atque at, rerum quis obcaecati in autem architecto fugit!",
+          technology:{
+            language:"Reactjs",
+            style:"SCSS",
+            backend:"Firebase"
+        }
     },
 
      {
         id:5,
-        name:"MongoDB",
-        logo:"fa-solid fa-database"
+        name:"TaxTalk",
+        description:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae error voluptatem atque at, rerum quis obcaecati in autem architecto fugit!",
+          technology:{
+            language:"Reactjs",
+            style:"SCSS",
+            backend:"Firebase"
+        }
 
     }, 
     {
         id:6,
         name:"ExpressJs",
-        logo:"fa-brands fa-node"
+        description:" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae error voluptatem atque at, rerum quis obcaecati in autem architecto fugit!",
+          technology:{
+            language:"Reactjs",
+            style:"SCSS",
+            backend:"Firebase"
+        }
     },
-    {
-        id:7,
-        name:"Rest Apis",
-        logo:"fa-solid fa-restroom"
-
-    }, 
-    {
-        id:8,
-        name:"Cloud Firebase",
-        logo:"fa-solid fa-database"
-
-    }
-    , {
-        id:9,
-        name:"Web Hosting",
-        logo:"fa-solid fa-server"
-    }, 
-// {<i class=""<i class=""></i>></i>
-//         id:1,
-//         icon:"",
-//         name:"",
-//     }, {
-//         id:1,
-//         icon:"",
-//         name:"",
-//     }, {
-//         id:1,
-//         icon:"",
-//         name:"",
-//     }, {
-//         id:1,
-//         icon:"",
-//         name:"",
-//     },
-    
 ]
